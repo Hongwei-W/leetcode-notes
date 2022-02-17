@@ -4,18 +4,28 @@
 
 ### Descriptions
 
+
+
 This is a journal of my Everyday-LeetCode problems. I will drop down whatever information that seems helpful for me. This is also proof of I am practicing something in a daily manner, and this also provides useful resources for my future (whenever the algorithm could help). 
 
-Also, the establishment of this repo (Feb 16, 2022) is a small souvenir of finishing my first 100 LeetCode problems. 
+Also, the establishment of this repo (Feb 16, 2022) is a small souvenir of finishing my first 100 LeetCode problems. This repo will update on every Friday.
+
+For the best of viewing experience, download the the `leetcode_notes.md` and read on the local machine.
 
 
 
 ### Citation
+
+
+
 Until further notice, my solutions/approach to problems and my ordering of problems are referring to this [guide](https://github.com/youngyangyang04/leetcode-master). My plan is to finish this guide first, then I will practice problems by tags. 
 
 
 
 ### Language
+
+
+
 My notes language is in English, while some parts could be in Chinese for a more intuitive understanding.
 
 My coding language is `python`.
@@ -23,6 +33,8 @@ My coding language is `python`.
 
 
 ### Milestone
+
+
 
 | What's Up                               | Date                      |
 | --------------------------------------- | ------------------------- |
@@ -33,6 +45,8 @@ My coding language is `python`.
 
 
 ### Appendix
+
+
 
 <sup>1</sup> A screenshot of finished my first 100 problems
 

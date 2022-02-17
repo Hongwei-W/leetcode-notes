@@ -1585,3 +1585,26 @@ Sub-solution: the previous `summation` must be positive, so the `summation + now
 
 Solution: keep track of the `summation` and update the `max`
 
+
+
+#### [M 122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+
+**Enlightenment**: buy a stock and sell it 3 days after == buy a stock, sell it a day after, then immediately buy it, sell it a day after, then immediately buy it, seel it a day after 
+
+Sub-solution: maximize daily profit, that is, only pick the day with positive profit 
+
+Solution: maximize overall profit
+
+
+
+#### [M 55. Jump Game](https://leetcode.com/problems/jump-game/)
+
+Sub-solution: jump to the furthest I can, so I can use all values in this jump and calcalate for the next furthest
+
+Solution: jump so far that I reach the end
+
+
+
+#### [M 151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
+
+Saw [here](#Reverse String[)
